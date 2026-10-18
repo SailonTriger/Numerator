@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_button",
+  "%Name":"obj_genie",
   "eventList":[],
   "managed":true,
-  "name":"obj_button",
+  "name":"obj_genie",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_big_button",
-    "path":"sprites/spr_big_button/spr_big_button.yy",
+    "name":"spr_genie",
+    "path":"sprites/spr_genie/spr_genie.yy",
   },
   "spriteMaskId":null,
   "visible":true,
