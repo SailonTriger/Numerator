@@ -5,13 +5,16 @@ draw_set_halign(fa_center);
 draw_set_valign(fa_center);
 
 
+var onda_y = sin(time + ordem * 0.8) * amplitude;
+
 draw_set_alpha(0.3);
 draw_set_colour(c_black);
-draw_text(x+2, y+2, Titulo);
+squiggle_draw_text_transformed(x, y + onda_y, Titulo, escala_x, escala_y, 1)
 
-draw_set_alpha(1)
+
+draw_set_alpha(1);
 draw_set_colour(cor);
-draw_text(x, y, Titulo);
+squiggle_draw_text_transformed(x, y + onda_y, Titulo, escala_x, escala_y, 1)
 
 
 
