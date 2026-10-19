@@ -65,6 +65,7 @@
     {"id":{"name":"spr_cloud_top","path":"sprites/spr_cloud_top/spr_cloud_top.yy",},},
     {"id":{"name":"spr_dialog_box_shadow","path":"sprites/spr_dialog_box_shadow/spr_dialog_box_shadow.yy",},},
     {"id":{"name":"spr_dialog_box","path":"sprites/spr_dialog_box/spr_dialog_box.yy",},},
+    {"id":{"name":"spr_genie_shadow","path":"sprites/spr_genie_shadow/spr_genie_shadow.yy",},},
     {"id":{"name":"spr_genie","path":"sprites/spr_genie/spr_genie.yy",},},
     {"id":{"name":"spr_small_button_shadow","path":"sprites/spr_small_button_shadow/spr_small_button_shadow.yy",},},
     {"id":{"name":"spr_small_button","path":"sprites/spr_small_button/spr_small_button.yy",},},

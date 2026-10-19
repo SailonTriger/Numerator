@@ -9,12 +9,12 @@ var onda_y = sin(time + ordem * 0.8) * amplitude;
 
 draw_set_alpha(0.3);
 draw_set_colour(c_black);
-squiggle_draw_text_transformed(x, y + onda_y, Titulo, escala_x, escala_y, 1)
+squiggle_draw_text_transformed(x + 2, y + onda_y, Titulo, escala_x, escala_y, 0)
 
 
 draw_set_alpha(1);
 draw_set_colour(cor);
-squiggle_draw_text_transformed(x, y + onda_y, Titulo, escala_x, escala_y, 1)
+squiggle_draw_text_transformed(x, y + onda_y, Titulo, escala_x, escala_y, 0)
 
 
 
