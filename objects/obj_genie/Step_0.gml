@@ -14,3 +14,7 @@ if (instance_exists(dialogo)) {
     dialogo.y = y + margem_y;
     dialogo.x = x + 70;
 }
+// Só avança se apertar Espaço
+if (keyboard_check_pressed(vk_space)) {
+    avanca_dialogo();
+}

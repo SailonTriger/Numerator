@@ -45,6 +45,7 @@
     {"id":{"name":"fnt_subtitle","path":"fonts/fnt_subtitle/fnt_subtitle.yy",},},
     {"id":{"name":"fnt_title","path":"fonts/fnt_title/fnt_title.yy",},},
     {"id":{"name":"obj_button_father","path":"objects/obj_button_father/obj_button_father.yy",},},
+    {"id":{"name":"obj_button_next","path":"objects/obj_button_next/obj_button_next.yy",},},
     {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},
     {"id":{"name":"obj_genie","path":"objects/obj_genie/obj_genie.yy",},},
     {"id":{"name":"obj_next","path":"objects/obj_next/obj_next.yy",},},
