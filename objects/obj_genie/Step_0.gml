@@ -18,3 +18,18 @@ if (instance_exists(dialogo)) {
 if (keyboard_check_pressed(vk_space)) {
     avanca_dialogo();
 }
+
+// testando o maior
+if (keyboard_check_pressed(vk_up))
+{
+	
+	maior();
+	
+}
+// testando o menor
+if (keyboard_check_pressed(vk_down))
+{
+	
+	menor();
+	
+}
